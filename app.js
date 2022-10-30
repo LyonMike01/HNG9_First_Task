@@ -16,7 +16,7 @@ console.log ("ok")
 
 app.get("/", (req, res) => {
     res.json({ 
-        "slackUsername": "Titimike1", 
+        "slackUsername": "TitiMike", 
         "backend": true, 
         "age": 18, 
         "bio": "My name is Titiloye Temitope Michael, I'm a Web Developer" 
